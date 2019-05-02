@@ -135,5 +135,5 @@ delete 'attachments/destroy' => 'attachments#destroy'
 ## 3. 이미지가 업로드 되는지 확인
 코드를 작성하고 테스트를 통해 S3로 이미지가 업로드 되는지 확인합니다. 코드에 이상이 없는데도 이미지가 업로드 되지 않는다면 S3 버킷의 권한을 한번 확인해주세요.
 
-
+![alt text](./S3.png)
 
