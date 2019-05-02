@@ -137,3 +137,7 @@ delete 'attachments/destroy' => 'attachments#destroy'
 
 ![alt text](./S3.png)
 
+
+새 퍼블릭 ACL 및 퍼블릭 객체 업로드 차단(권장) -> False, 
+퍼블릭 ACL을 통해 부여된 퍼블릭 엑세스 권한 제거(권장) -> False,
+나머지는 True
