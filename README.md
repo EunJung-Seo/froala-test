@@ -142,6 +142,3 @@ delete 'attachments/destroy' => 'attachments#destroy'
 퍼블릭 ACL을 통해 부여된 퍼블릭 엑세스 권한 제거(권장) -> False,
 나머지는 True
 
-
-
-@Jongjineee 보시구 궁금하신 점 있으면 이슈 하나 만들어서 정리해주세요! 답변 달아 놓겠습니다!
